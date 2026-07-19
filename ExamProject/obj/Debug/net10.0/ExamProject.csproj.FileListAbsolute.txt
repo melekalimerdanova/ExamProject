@@ -1,0 +1,17 @@
+C:\Users\Masum Alimardanov\source\repos\Homework8\ExamProject\obj\Debug\net10.0\ExamProject.csproj.AssemblyReference.cache
+C:\Users\Masum Alimardanov\source\repos\Homework8\ExamProject\obj\Debug\net10.0\ExamProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Masum Alimardanov\source\repos\Homework8\ExamProject\obj\Debug\net10.0\ExamProject.AssemblyInfoInputs.cache
+C:\Users\Masum Alimardanov\source\repos\Homework8\ExamProject\obj\Debug\net10.0\ExamProject.AssemblyInfo.cs
+C:\Users\Masum Alimardanov\source\repos\Homework8\ExamProject\obj\Debug\net10.0\ExamProject.csproj.CoreCompileInputs.cache
+C:\Users\Masum Alimardanov\source\repos\Homework8\ExamProject\bin\Debug\net10.0\ExamProject.exe
+C:\Users\Masum Alimardanov\source\repos\Homework8\ExamProject\bin\Debug\net10.0\ExamProject.deps.json
+C:\Users\Masum Alimardanov\source\repos\Homework8\ExamProject\bin\Debug\net10.0\ExamProject.runtimeconfig.json
+C:\Users\Masum Alimardanov\source\repos\Homework8\ExamProject\bin\Debug\net10.0\ExamProject.dll
+C:\Users\Masum Alimardanov\source\repos\Homework8\ExamProject\bin\Debug\net10.0\ExamProject.pdb
+C:\Users\Masum Alimardanov\source\repos\Homework8\ExamProject\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\Masum Alimardanov\source\repos\Homework8\ExamProject\obj\Debug\net10.0\ExamProj.BD73B408.Up2Date
+C:\Users\Masum Alimardanov\source\repos\Homework8\ExamProject\obj\Debug\net10.0\ExamProject.dll
+C:\Users\Masum Alimardanov\source\repos\Homework8\ExamProject\obj\Debug\net10.0\refint\ExamProject.dll
+C:\Users\Masum Alimardanov\source\repos\Homework8\ExamProject\obj\Debug\net10.0\ExamProject.pdb
+C:\Users\Masum Alimardanov\source\repos\Homework8\ExamProject\obj\Debug\net10.0\ExamProject.genruntimeconfig.cache
+C:\Users\Masum Alimardanov\source\repos\Homework8\ExamProject\obj\Debug\net10.0\ref\ExamProject.dll
